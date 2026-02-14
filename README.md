@@ -1,5 +1,6 @@
 #  Star Wars Game Data Analytics
 
+##  Dashboard Preview : https://lookerstudio.google.com/reporting/e34fd47a-4ab1-4385-b94a-7cc6bb5c14f1
 ##  Project Overview
 This project demonstrates an end-to-end data analytics pipeline — from data extraction using SQL to dashboard visualization in Looker Studio.
 
